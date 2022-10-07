@@ -1,0 +1,19 @@
+
+    body{
+    background-image: url('https://benefitss.net/wp-content/uploads/2020/08/1804.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+/* #app{
+    background-color:red;
+
+} */
+nav{
+    background-color: rgba(51, 10, 3, 0.61);
+    background-color: rgba(212, 58, 135, 0.521);
+
+   
+}
+a{
+    color:aliceblue;
+}
